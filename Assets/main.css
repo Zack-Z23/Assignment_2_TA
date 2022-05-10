@@ -129,7 +129,7 @@ section
 {
     display: flex;
     justify-content: center;
-    background:url(../Assets/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg);
+    background:url(../Assets/umberto-jXd2FSvcRr8-unsplash.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -150,7 +150,7 @@ section
 
 }
 .text{
-    color: #ffffff;
+    color: #f8f8f8;
 }
 
 #Big{
